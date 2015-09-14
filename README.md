@@ -11,13 +11,21 @@ It is safe to assume that the shortest time should be computed.  For example, th
 The different starting cities are represented by letters.  The distance between cities is below.  
 
 A-B : 450
+
 B-C : 140
+
 C-D : 125
+
 D-E : 365
+
 E-F : 250
+
 F-G : 160
+
 G-H : 380
+
 H-J : 235
+
 J-K : 320
 
 #Input
@@ -27,4 +35,10 @@ For the contest, there are 5 inputs.
 
 #Sample
 Sample Input (each comma represents a hard enter):
+
 A, C, 1, PM, 2, PM, 50, 60
+
+Sample Output:
+
+8:41
+
